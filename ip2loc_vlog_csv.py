@@ -12,7 +12,8 @@ import sqlite3
 import sys, os
 
 def q(s):
-  return "'" + s + "'"
+  v = s.replace("'", "")
+  return "'" + v + "'"
 
 def proc_ip():
   ''' process this IP for location information '''

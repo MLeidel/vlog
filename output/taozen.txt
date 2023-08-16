@@ -8,6 +8,33 @@ country name:  China
   User Agent:  Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML· like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://maps.google.com/?q=22.545673,114.068110
 - - - - - - - - - - - - - - - - - - - - - - -
+          IP:  157.230.230.18
+        Time:  2023-08-15 21:42:29
+country code:  US
+country name:  United States of America
+ region name:  New Jersey
+   city name:  North Bergen
+  User Agent:  Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/5311 (KHTML· like Gecko) Chrome/38.0.894.0 Mobile Safari/5311
+https://maps.google.com/?q=40.804077,-74.012366
+- - - - - - - - - - - - - - - - - - - - - - -
+          IP:  172.232.34.5
+        Time:  2023-08-16 06:46:40
+country code:  AU
+country name:  Australia
+ region name:  New South Wales
+   city name:  Sydney
+  User Agent:  Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://maps.google.com/?q=-33.867780,151.207052
+- - - - - - - - - - - - - - - - - - - - - - -
+          IP:  198.235.24.79
+        Time:  2023-08-15 21:48:54
+country code:  US
+country name:  United States of America
+ region name:  California
+   city name:  Santa Clara
+  User Agent:  Expanse· a Palo Alto Networks company· searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans· please send IP addresses/domains to: scaninfo@paloaltonetworks.com
+https://maps.google.com/?q=37.352100,-121.958200
+- - - - - - - - - - - - - - - - - - - - - - -
           IP:  3.81.67.186
         Time:  2023-08-14 19:15:09
 country code:  US
@@ -17,8 +44,44 @@ country name:  United States of America
   User Agent:  Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML· like Gecko) Chrome/58.0.3029.110 Safari/537.36
 https://maps.google.com/?q=39.039474,-77.491809
 - - - - - - - - - - - - - - - - - - - - - - -
+          IP:  34.210.71.230
+        Time:  2023-08-16 10:14:09
+country code:  US
+country name:  United States of America
+ region name:  Oregon
+   city name:  Boardman
+  User Agent:  Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML· like Gecko) Chrome/83.0.4103.97 Safari/537.36
+https://maps.google.com/?q=45.839860,-119.700580
+- - - - - - - - - - - - - - - - - - - - - - -
+          IP:  34.217.212.127
+        Time:  2023-08-16 08:55:20
+country code:  US
+country name:  United States of America
+ region name:  Oregon
+   city name:  Boardman
+  User Agent:  Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML· like Gecko) Chrome/83.0.4103.97 Safari/537.36
+https://maps.google.com/?q=45.839860,-119.700580
+- - - - - - - - - - - - - - - - - - - - - - -
           IP:  34.222.131.223
         Time:  2023-08-15 08:22:29
+country code:  US
+country name:  United States of America
+ region name:  Oregon
+   city name:  Boardman
+  User Agent:  Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML· like Gecko) Chrome/83.0.4103.97 Safari/537.36
+https://maps.google.com/?q=45.839860,-119.700580
+- - - - - - - - - - - - - - - - - - - - - - -
+          IP:  35.160.5.17
+        Time:  2023-08-16 10:14:11
+country code:  US
+country name:  United States of America
+ region name:  Oregon
+   city name:  Boardman
+  User Agent:  Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML· like Gecko) Chrome/83.0.4103.97 Safari/537.36
+https://maps.google.com/?q=45.839860,-119.700580
+- - - - - - - - - - - - - - - - - - - - - - -
+          IP:  35.88.193.135
+        Time:  2023-08-16 08:55:48
 country code:  US
 country name:  United States of America
  region name:  Oregon
@@ -44,8 +107,53 @@ country name:  China
   User Agent:  Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML· like Gecko)Chrome/74.0.3729.169 Safari/537.36
 https://maps.google.com/?q=39.907500,116.397100
 - - - - - - - - - - - - - - - - - - - - - - -
+          IP:  45.55.197.113
+        Time:  2023-08-16 01:45:32
+country code:  US
+country name:  United States of America
+ region name:  New Jersey
+   city name:  Clifton
+  User Agent:  Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML· like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://maps.google.com/?q=40.858585,-74.163605
+- - - - - - - - - - - - - - - - - - - - - - -
+          IP:  52.167.144.105
+        Time:  2023-08-16 03:55:24
+country code:  US
+country name:  United States of America
+ region name:  Virginia
+   city name:  Boydton
+  User Agent:  Mozilla/5.0 AppleWebKit/537.36 (KHTML· like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/103.0.5060.134 Safari/537.36
+https://maps.google.com/?q=36.667640,-78.387500
+- - - - - - - - - - - - - - - - - - - - - - -
           IP:  52.39.206.75
         Time:  2023-08-15 08:22:22
+country code:  US
+country name:  United States of America
+ region name:  Oregon
+   city name:  Boardman
+  User Agent:  Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML· like Gecko) Chrome/83.0.4103.97 Safari/537.36
+https://maps.google.com/?q=45.839860,-119.700580
+- - - - - - - - - - - - - - - - - - - - - - -
+          IP:  52.89.22.81
+        Time:  2023-08-16 10:14:44
+country code:  US
+country name:  United States of America
+ region name:  Oregon
+   city name:  Boardman
+  User Agent:  Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML· like Gecko) Chrome/83.0.4103.97 Safari/537.36
+https://maps.google.com/?q=45.839860,-119.700580
+- - - - - - - - - - - - - - - - - - - - - - -
+          IP:  54.184.120.174
+        Time:  2023-08-16 08:55:42
+country code:  US
+country name:  United States of America
+ region name:  Oregon
+   city name:  Boardman
+  User Agent:  Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML· like Gecko) Chrome/83.0.4103.97 Safari/537.36
+https://maps.google.com/?q=45.839860,-119.700580
+- - - - - - - - - - - - - - - - - - - - - - -
+          IP:  54.185.198.226
+        Time:  2023-08-16 10:14:30
 country code:  US
 country name:  United States of America
  region name:  Oregon
@@ -61,7 +169,16 @@ country name:  United States of America
    city name:  Boardman
   User Agent:  Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML· like Gecko) Chrome/83.0.4103.97 Safari/537.36
 https://maps.google.com/?q=45.839860,-119.700580
+- - - - - - - - - - - - - - - - - - - - - - -
+          IP:  62.122.184.192
+        Time:  2023-08-15 22:02:53
+country code:  RU
+country name:  Russian Federation
+ region name:  Moskva
+   city name:  Moscow
+  User Agent:  Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.9.168 Version/11.50
+https://maps.google.com/?q=55.752259,37.615470
 
 
-Finished 7 unique IP addresses
+Finished 20 unique IP addresses
 To check blacklist: python3 apivoid1.py xxx.xxx.xxx.xxx

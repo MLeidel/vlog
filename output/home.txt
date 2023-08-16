@@ -35,6 +35,33 @@ country name:  China
   User Agent:  Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML· like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://maps.google.com/?q=23.127361,113.264570
 - - - - - - - - - - - - - - - - - - - - - - -
+          IP:  140.246.136.252
+        Time:  2023-08-15 18:41:44
+country code:  CN
+country name:  China
+ region name:  Shandong
+   city name:  Jinan
+  User Agent:  Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML· like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://maps.google.com/?q=36.668330,116.997220
+- - - - - - - - - - - - - - - - - - - - - - -
+          IP:  157.245.118.189
+        Time:  2023-08-16 09:00:19
+country code:  US
+country name:  United States of America
+ region name:  New Jersey
+   city name:  Clifton
+  User Agent:  Mozilla/5.0 (X11; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0
+https://maps.google.com/?q=40.858585,-74.163605
+- - - - - - - - - - - - - - - - - - - - - - -
+          IP:  162.216.150.172
+        Time:  2023-08-16 01:50:10
+country code:  US
+country name:  United States of America
+ region name:  South Carolina
+   city name:  North Charleston
+  User Agent:  Expanse· a Palo Alto Networks company· searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans· please send IP addresses/domains to: scaninfo@paloaltonetworks.com
+https://maps.google.com/?q=32.888701,-80.007581
+- - - - - - - - - - - - - - - - - - - - - - -
           IP:  162.216.150.201
         Time:  2023-08-15 03:22:35
 country code:  US
@@ -53,6 +80,15 @@ country name:  United States of America
   User Agent:  Expanse· a Palo Alto Networks company· searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans· please send IP addresses/domains to: scaninfo@paloaltonetworks.com
 https://maps.google.com/?q=32.888701,-80.007581
 - - - - - - - - - - - - - - - - - - - - - - -
+          IP:  185.180.143.190
+        Time:  2023-08-15 23:17:58
+country code:  BE
+country name:  Belgium
+ region name:  Brussels Hoofdstedelijk Gewest
+   city name:  Brussels
+  User Agent:  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML· like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://maps.google.com/?q=50.850450,4.348780
+- - - - - - - - - - - - - - - - - - - - - - -
           IP:  198.235.24.151
         Time:  2023-08-15 10:29:02
 country code:  US
@@ -61,6 +97,15 @@ country name:  United States of America
    city name:  Santa Clara
   User Agent:  Expanse· a Palo Alto Networks company· searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans· please send IP addresses/domains to: scaninfo@paloaltonetworks.com
 https://maps.google.com/?q=37.352100,-121.958200
+- - - - - - - - - - - - - - - - - - - - - - -
+          IP:  199.244.88.226
+        Time:  2023-08-16 06:08:11
+country code:  US
+country name:  United States of America
+ region name:  Illinois
+   city name:  Streamwood
+  User Agent:  Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML· like Gecko) Chrome/105.0.0.0 Safari/537.36
+https://maps.google.com/?q=42.022521,-88.167519
 - - - - - - - - - - - - - - - - - - - - - - -
           IP:  205.210.31.33
         Time:  2023-08-15 11:15:04
@@ -71,6 +116,15 @@ country name:  United States of America
   User Agent:  Expanse· a Palo Alto Networks company· searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans· please send IP addresses/domains to: scaninfo@paloaltonetworks.com
 https://maps.google.com/?q=37.352100,-121.958200
 - - - - - - - - - - - - - - - - - - - - - - -
+          IP:  207.90.244.12
+        Time:  2023-08-16 02:07:47
+country code:  US
+country name:  United States of America
+ region name:  Texas
+   city name:  Pflugerville
+  User Agent:  Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML· like Gecko) Chrome/41.0.2228.0 Safari/537.36
+https://maps.google.com/?q=30.443264,-97.628175
+- - - - - - - - - - - - - - - - - - - - - - -
           IP:  216.218.206.68
         Time:  2023-08-15 02:40:50
 country code:  US
@@ -80,6 +134,24 @@ country name:  United States of America
   User Agent:  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML· like Gecko) Version/16.3 Safari/605.1.15
 https://maps.google.com/?q=37.517979,-121.929488
 - - - - - - - - - - - - - - - - - - - - - - -
+          IP:  35.203.210.17
+        Time:  2023-08-15 19:10:34
+country code:  GB
+country name:  United Kingdom of Great Britain and Northern Ireland
+ region name:  England
+   city name:  London
+  User Agent:  Expanse· a Palo Alto Networks company· searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans· please send IP addresses/domains to: scaninfo@paloaltonetworks.com
+https://maps.google.com/?q=51.508530,-0.125740
+- - - - - - - - - - - - - - - - - - - - - - -
+          IP:  42.83.147.56
+        Time:  2023-08-16 04:32:34
+country code:  CN
+country name:  China
+ region name:  Beijing
+   city name:  Beijing
+  User Agent:  Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML· like Gecko)Chrome/74.0.3729.169 Safari/537.36
+https://maps.google.com/?q=39.907500,116.397100
+- - - - - - - - - - - - - - - - - - - - - - -
           IP:  45.156.129.32
         Time:  2023-08-14 23:47:51
 country code:  BE
@@ -88,6 +160,33 @@ country name:  Belgium
    city name:  Brussels
   User Agent:  Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML· like Gecko) Chrome/66.0.3359.117 Safari/537.36
 https://maps.google.com/?q=50.850450,4.348780
+- - - - - - - - - - - - - - - - - - - - - - -
+          IP:  45.83.65.36
+        Time:  2023-08-16 07:10:14
+country code:  DE
+country name:  Germany
+ region name:  Berlin
+   city name:  Berlin
+  User Agent:  Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+https://maps.google.com/?q=52.524526,13.410037
+- - - - - - - - - - - - - - - - - - - - - - -
+          IP:  46.48.13.161
+        Time:  2023-08-15 17:38:07
+country code:  RU
+country name:  Russian Federation
+ region name:  Sverdlovskaya oblast'
+   city name:  Yekaterinburg
+  User Agent:  Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0
+https://maps.google.com/?q=56.857500,60.612500
+- - - - - - - - - - - - - - - - - - - - - - -
+          IP:  64.62.197.231
+        Time:  2023-08-16 04:22:36
+country code:  US
+country name:  United States of America
+ region name:  California
+   city name:  Pleasanton
+  User Agent:  Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0
+https://maps.google.com/?q=37.685314,-121.894812
 - - - - - - - - - - - - - - - - - - - - - - -
           IP:  65.30.143.131
         Time:  2023-08-15 11:52:27
@@ -116,6 +215,15 @@ country name:  United States of America
   User Agent:  Mediapartners-Google
 https://maps.google.com/?q=45.594782,-121.178686
 - - - - - - - - - - - - - - - - - - - - - - -
+          IP:  74.82.47.3
+        Time:  2023-08-15 21:28:50
+country code:  BG
+country name:  Bulgaria
+ region name:  Sofia (stolitsa)
+   city name:  Sofia
+  User Agent:  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML· like Gecko) Chrome/99.0.4844.51 Safari/537.36
+https://maps.google.com/?q=42.697510,23.324150
+- - - - - - - - - - - - - - - - - - - - - - -
           IP:  83.97.73.87
         Time:  2023-08-15 09:16:26
 country code:  RU
@@ -126,5 +234,5 @@ country name:  Russian Federation
 https://maps.google.com/?q=59.894440,30.264200
 
 
-Finished 14 unique IP addresses
+Finished 26 unique IP addresses
 To check blacklist: python3 apivoid1.py xxx.xxx.xxx.xxx
